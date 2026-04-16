@@ -11,3 +11,7 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+# Windows 时区支持 / Windows timezone support
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
