@@ -13,9 +13,9 @@ title                    : "李天鹏 / Tianpeng Li"
 title_separator          : "-"
 name                     : &name "李天鹏 / Tianpeng Li"
 description              : &description "高校教师个人学术主页 | Academic Homepage"
-url                      : https://tianpengli.github.io
+url                      : https://ltpnimeia.github.io
 baseurl                  : ""
-repository               : "tianpengli/tianpengli.github.io"
+repository               : "ltpnimeia/ltpnimeia.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
