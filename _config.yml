@@ -22,22 +22,22 @@ repository               : "ltpnimeia/ltpnimeia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "李天鹏 / Tianpeng Li"
   pronouns         : # example: "she/her"
-  bio              : "副教授 / Associate Professor<br>天津大学 / Tianjin University"
+  bio              : "助理教授 / Assistant Professor<br>天津大学新媒体与传播学院 / School of New Media and Communications, Tianjin University"
   location         : "天津，中国 / Tianjin, China"
   employer         : "天津大学 / Tianjin University"
   uri              : # URL
-  email            : "tianpeng.li@tju.edu.cn"  # ← 请替换为真实邮箱
+  email            : "ltpnimeia@tju.edu.cn"  # ← 请替换为真实邮箱
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL
-  googlescholar    : # ← 粘贴你的 Google Scholar 主页 URL，例如 https://scholar.google.com/citations?user=XXXXXX
+  googlescholar    : https://scholar.google.com/citations?user=Bdnv7MYAAAAJ&hl=en
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # ← 你的 ORCID URL，例如 https://orcid.org/0000-0000-0000-0000
+  orcid            : https://orcid.org/my-orcid?orcid=0000-0001-7217-6580
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
