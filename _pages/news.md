@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-- **2026-04** 个人主页正式上线。  
+<!-- - **2026-04** 个人主页正式上线。  
   Personal academic homepage launched.
 
 - **2026-03** 论文《[论文标题，请补充]》被 *[期刊名，请补充]* 录用。  
@@ -18,4 +18,4 @@ author_profile: true
 
 > **使用说明 / How to update:**  
 > 新增动态时在列表**顶部**插入新条目，保持倒序排列。  
-> Insert new entries at the **top** of the list to maintain reverse-chronological order.
+> Insert new entries at the **top** of the list to maintain reverse-chronological order. -->
